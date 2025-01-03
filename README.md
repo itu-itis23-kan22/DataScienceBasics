@@ -18,7 +18,6 @@ This project is focused on analyzing traffic patterns in the Maslak region using
 - **Libraries Used**:
   - `pandas` for data manipulation.
   - `matplotlib` and `seaborn` for visualization.
-  - `scikit-learn` for machine learning.
 
 ## File Structure
 - **MaslakTraffic.ipynb**: Contains all the code, analysis, and visualizations for the project.
